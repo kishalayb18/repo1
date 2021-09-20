@@ -5,4 +5,8 @@ public class BootClass {
 		System.out.println("Hello!");
 	}
 
+	public static void show()
+	{
+		System.out.println("show method here");
+	}
 }
